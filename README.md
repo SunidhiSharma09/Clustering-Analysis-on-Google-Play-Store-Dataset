@@ -7,7 +7,7 @@ to understand the underlying pattern and structure.
 #### Clustering Techniques Performed and Compared
 Before applying any clustering technique, we plotted some scatter plots(3D-scatter plot and Pair plot) to look at the shape of the data and get an idea of which technique would work better.
 Then applied -
-- K-Means Clusttering
+- K-Means Clustering
 - GMM Clustering
 - Hierarchical Clustering
 - DBSCAN Clustering
